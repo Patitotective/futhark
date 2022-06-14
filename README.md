@@ -1,4 +1,4 @@
-![Futhark logo](https://github.com/PMunch/futhark/blob/master/futhark.png)
+![Futhark logo](https://github.com/PMunch/futhark/blasob/master/futhark.png)
 
 Have your eyes set on the perfect C library for your project? Can't find a
 wrapper for it in Nim? Look no further! Futhark aims to allow you to simply
